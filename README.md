@@ -1,4 +1,4 @@
-#### This project utilizes the Bike Buyers 1000 dataset.
+#### This project utilizes 1000 Bike Buyers dataset.
 
 ## Key Steps in the Project
 1. Data Cleaning: Identify and remove duplicates, standardize categorical data (e.g., marital status, gender).
